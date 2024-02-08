@@ -1,6 +1,12 @@
 # Twitter-Sentiment-Analysis
  Analyzing the Sentiments of Tweets for Airlines on Twitter Platform
 
+## Installation
+```
+$ git clone https://github.com/sudhanshusinghaiml/Twitter-Sentiment-Analysis-for-Airlines.git
+$ cd Twitter-Sentiment-Analysis-for-Airlines
+```
+
 ## Project Description: 
    - Topics Covered: 
 		- Exploratory Data Analysis 
