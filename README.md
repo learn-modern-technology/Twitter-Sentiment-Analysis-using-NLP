@@ -32,11 +32,9 @@ $ cd Twitter-Sentiment-Analysis-for-Airlines
          - From below graph, we can understand the most important reasons for Negative sentiments for each of the SIX airlines.
 		 
 		 
-           ![Reasons_for_Sentiments](https://github.com/sudhanshusinghaiml/Twitter-Sentiment-Analysis-for-Airlines/assets/74963600/158647ea-3575-4356-8e7a-d29cc99b4760)
+           ![Reasons_for_Sentiments](https://github.com/sudhanshusinghaiml/Twitter-Sentiment-Analysis-for-Airlines/blob/develop/images/Reasons_for_Sentiments.png)
         - Customer Service Issue is the most important Reasons for Negative Sentiments for 5 Airlines ((United, US Airways, American, Southwest and Virgin America)
 		   
-	   		![Reasons_for_Sentiments2](https://github.com/sudhanshusinghaiml/Twitter-Sentiment-Analysis-for-Airlines/assets/74963600/d2e7ad74-d093-4b27-b36b-265270623e76)
-			
-			![Reasons_for_Sentiments2](https://github.com/sudhanshusinghaiml/Twitter-Sentiment-Analysis-for-Airlines/blob/develop/images/Reasons_for_Sentiments.png)
+			![Reasons_for_Sentiments2](https://github.com/sudhanshusinghaiml/Twitter-Sentiment-Analysis-for-Airlines/blob/develop/images/Reasons_for_Sentiments2.png)
 			
 		- Late flight is the most important Reasons for Negative Sentiments for Delta Airlines 
